@@ -1,0 +1,86 @@
+.home-container-land {
+  height: 100vh;
+  width: 100dvw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.entrenar-btn {
+  transform: translateY(-25vh);
+  color: #e3f4d7;
+  background-color: transparent;
+  border: 1px solid #e3f4d7;
+  padding: 5rem 3rem 5rem 3rem;
+  transition: 0.2s;
+}
+
+.entrenar-btn:hover {
+  padding: 1rem;
+}
+
+#carouselLand1 .carousel-inner {
+  height: 80vh;
+  margin: auto;
+  display: flex;
+}
+#carouselLand1 .carousel-inner .carousel-item {
+  margin: auto;
+  max-width: 100vw;
+}
+#carouselLand1 .carousel-inner .carousel-item img {
+  height: 80vh;
+  width: 100%;
+  object-fit: cover;
+}
+
+#carouselLand2 .carousel-inner {
+  height: 50vh;
+  margin: auto;
+  display: flex;
+}
+#carouselLand2 .carousel-inner .carousel-item {
+  margin: auto;
+  max-width: 100vw;
+}
+#carouselLand2 .carousel-inner .carousel-item img {
+  height: 50vh;
+  width: 100%;
+  object-fit: cover;
+}
+
+.title-landing {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 5rem;
+}
+
+.subtitle-landing {
+  transform: translateY(-1rem);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: "Roboto Condensed";
+  font-weight: 300;
+  font-size: 1.3rem;
+}
+
+.home-container-about {
+  display: flex;
+  height: auto;
+  width: auto;
+  justify-content: center;
+  align-items: center;
+  margin: 10vw;
+}
+.home-container-about .first-col-land {
+  width: 50%;
+  padding-right: 2rem;
+}
+.home-container-about .second-col-land {
+  width: 50%;
+}
+
+/*# sourceMappingURL=home.css.map */
