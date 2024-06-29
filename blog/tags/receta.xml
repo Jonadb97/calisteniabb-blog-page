@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title><![CDATA[Calistenia BB]]></title>
-    <link href="/blog/tags/receta.xml" rel="self"/>
-    <link href="/"/>
-    <updated>2024-06-29T18:13:54+00:00</updated>
-    <id>/</id>
+    <link href="calisteniabb-blog-page//blog/tags/receta.xml" rel="self"/>
+    <link href="calisteniabb-blog-page//"/>
+    <updated>2024-06-29T18:18:03+00:00</updated>
+    <id>calisteniabb-blog-page//</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
             <title type="html"><![CDATA[🍔️ Receta hamburguesas de porotos veganas 🍔️]]></title>
-            <link href="/blog/2022/12/21/porotos/"/>
+            <link href="calisteniabb-blog-page//blog/2022/12/21/porotos/"/>
             <updated>2022-12-21T00:00:00+00:00</updated>
-            <id>/blog/2022/12/21/porotos/</id>
-            <content type="html"><![CDATA[<p><img src="/assets/img/posts/hamburguesa1.png" class="img-responsive col-mx-auto img-thumbnail rounded mx-auto" width="320em" alt="Hamburguesa de lentejas"></p>
+            <id>calisteniabb-blog-page//blog/2022/12/21/porotos/</id>
+            <content type="html"><![CDATA[<p><img src="calisteniabb-blog-page//assets/img/posts/hamburguesa1.png" class="img-responsive col-mx-auto img-thumbnail rounded mx-auto" width="320em" alt="Hamburguesa de lentejas"></p>
 
 <h2 id="ingredientes%3A">Ingredientes:</h2>
 
@@ -46,7 +46,7 @@
 
 <p>¡Y listo! Unas tremendas hamburguesas veganas que podés combinar con esalada o mandar entre panes para una buena burguer, buen provecho!</p>
 
-<p><img src="/assets/img/posts/hamburguesa2.png" class="img-responsive col-mx-auto img-thumbnail rounded mx-auto" width="320em" alt="Hamburguesa de porotos negros a la parrilla"></p>
+<p><img src="calisteniabb-blog-page//assets/img/posts/hamburguesa2.png" class="img-responsive col-mx-auto img-thumbnail rounded mx-auto" width="320em" alt="Hamburguesa de porotos negros a la parrilla"></p>
 ]]></content>
         </entry>
     </feed>
