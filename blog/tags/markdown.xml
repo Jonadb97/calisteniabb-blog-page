@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title><![CDATA[Calistenia BB]]></title>
-    <link href="calisteniabb-blog-page//blog/tags/markdown.xml" rel="self"/>
-    <link href="calisteniabb-blog-page//"/>
-    <updated>2024-08-05T10:48:17+00:00</updated>
-    <id>calisteniabb-blog-page//</id>
+    <link href="https://jonadb97.github.io/calisteniabb-blog-page/blog/tags/markdown.xml" rel="self"/>
+    <link href="https://jonadb97.github.io/calisteniabb-blog-page/"/>
+    <updated>2024-08-05T10:51:26+00:00</updated>
+    <id>https://jonadb97.github.io/calisteniabb-blog-page/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
             <title type="html"><![CDATA[Happy Birthday Sculpin!]]></title>
-            <link href="calisteniabb-blog-page//blog/2011/12/20/happy-birthday-sculpin/"/>
+            <link href="https://jonadb97.github.io/calisteniabb-blog-page/blog/2011/12/20/happy-birthday-sculpin/"/>
             <updated>2011-12-20T00:00:00+00:00</updated>
-            <id>calisteniabb-blog-page//blog/2011/12/20/happy-birthday-sculpin/</id>
+            <id>https://jonadb97.github.io/calisteniabb-blog-page/blog/2011/12/20/happy-birthday-sculpin/</id>
             <content type="html"><![CDATA[<p>The first commit to the Sculpin repository was made on December 20th, 2011.
 What a trip since then!</p>
 
