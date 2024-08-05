@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title><![CDATA[Calistenia BB]]></title>
-    <link href="calisteniabb-blog-page//blog/tags/static site generator.xml" rel="self"/>
-    <link href="calisteniabb-blog-page//"/>
-    <updated>2024-06-29T18:21:56+00:00</updated>
-    <id>calisteniabb-blog-page//</id>
+    <link href="/blog/tags/static site generator.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2024-08-05T10:36:12+00:00</updated>
+    <id>/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
             <title type="html"><![CDATA[Balrog]]></title>
-            <link href="calisteniabb-blog-page//blog/2012/10/16/balrog/"/>
+            <link href="/blog/2012/10/16/balrog/"/>
             <updated>2012-10-16T00:00:00+00:00</updated>
-            <id>calisteniabb-blog-page//blog/2012/10/16/balrog/</id>
+            <id>/blog/2012/10/16/balrog/</id>
             <content type="html"><![CDATA[<p>Found out about <a href="http://github.com/igorw/balrog">Balrog</a> today! It looks
 like a really nice micro static site generator. Maybe Sculpin and Balrog
 can be friends?</p>

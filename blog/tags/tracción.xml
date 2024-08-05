@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title><![CDATA[Calistenia BB]]></title>
-    <link href="calisteniabb-blog-page//blog/tags/tracción.xml" rel="self"/>
-    <link href="calisteniabb-blog-page//"/>
-    <updated>2024-06-29T18:21:56+00:00</updated>
-    <id>calisteniabb-blog-page//</id>
+    <link href="/blog/tags/tracción.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2024-08-05T10:36:12+00:00</updated>
+    <id>/</id>
         <generator uri="http://sculpin.io/">Sculpin</generator>
             <entry>
             <title type="html"><![CDATA[🙆️ Movimientos escapulares 🙆️]]></title>
-            <link href="calisteniabb-blog-page//blog/2021/08/12/_posts/2022-1-1-movimientos-escapulares.md/"/>
+            <link href="/blog/2021/08/12/_posts/2022-1-1-movimientos-escapulares.md/"/>
             <updated>2021-08-12T21:14:10+00:00</updated>
-            <id>calisteniabb-blog-page//blog/2021/08/12/_posts/2022-1-1-movimientos-escapulares.md/</id>
+            <id>/blog/2021/08/12/_posts/2022-1-1-movimientos-escapulares.md/</id>
             <content type="html"><![CDATA[<h1 id="%C2%BFqu%C3%A9-es-la-esc%C3%A1pula-y-qu%C3%A9-m%C3%BAsculos-la-involucran%3F">¿Qué es la escápula y qué músculos la involucran?</h1>
 
 <p>Un factor clave a la hora de entrenar calistenia es entender el rol y cómo debo activar los músculos alrededor de las escápulas.</p>
@@ -54,7 +54,7 @@ Consta en términos generales, y específicamente en el ser humano, de un cuerpo
 
 <p>Ahora que sabemos qué es la cintura escapular y qué músculos las asisten podemos pasar a entender sus movimientos.</p>
 
-<p><img src="calisteniabb-blog-page//assets/img/posts/movimientosescapulares.jpg" class="img-responsive col-mx-auto"></p>
+<p><img src="/assets/img/posts/movimientosescapulares.jpg" class="img-responsive col-mx-auto"></p>
 
 <p>Es importante entender que a la hora de realizar cualquier movimiento de fuerza que involucre a la cintura escapular(cualquier ejercicio de tracción o empuje del tren superior) esta tiene que ser la primera en activarse para estabilizar a lo largo del movimiento y poder cargar los músculos adecuados en conjunto para realizar el movimiento eficientemente.</p>
 

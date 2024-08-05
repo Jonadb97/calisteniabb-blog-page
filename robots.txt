@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /blog/tags/
 Disallow: /blog/categories/
 
-Sitemap: calisteniabb-blog-page//sitemap.xml
+Sitemap: /sitemap.xml
